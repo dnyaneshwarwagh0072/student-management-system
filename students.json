@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "johndoe@example.com",
+        "gender": "Male",
+        "class": 10,
+        "marks": 85,
+        "passing": true
+    },
+    {
+        "id": 2,
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "email": "janesmith@example.com",
+        "gender": "Female",
+        "class": 12,
+        "marks": 72,
+        "passing": false
+    }
+]
